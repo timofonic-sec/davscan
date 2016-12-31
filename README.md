@@ -2,8 +2,9 @@
 
 DAVScan is a quick and lightweight webdav scanner designed to discover hidden files and folders on DAV enabled webservers.
 The scanner works by taking advantage of overly privileged/misconfigured WebDAV servers or servers vulnerable to various 
-disclosure or authentication bypass vulnerabilities. The scanner attempts to fingerprint the target server and then spider	
-the server based on the results of a root PROPFIND request.
+disclosure or authentication bypass vulnerabilities.
+
+The scanner attempts to fingerprint the target server and then spider the server based on the results of a root PROPFIND request.
 
 ## What works:
 
